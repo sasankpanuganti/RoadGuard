@@ -1,0 +1,8 @@
+{
+  "name": "RoadGuard AI",
+  "description": "An intelligent pothole detection system using Gemini API to identify road hazards in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
